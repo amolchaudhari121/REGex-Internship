@@ -1,3 +1,4 @@
+Name - Amol Chaudhari
 # Numpy Assignment :
 import numpy as np
 # Q1 Numpy stands for ?
